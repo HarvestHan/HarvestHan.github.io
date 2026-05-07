@@ -1,0 +1,37 @@
+{
+  "name": "Fengshou Han",
+  "affiliation": "Zhengzhou University",
+  "citedby": 36,
+  "citedby5y": 36,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 1,
+  "i10index5y": 1,
+  "publications": {
+    "u-x6o8ySG0sC": {
+      "title": "Differentiable information bottleneck for deterministic multi-view clustering",
+      "authors": "X Yan, Z Jin, F Han, Y Ye",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024",
+      "year": 2024,
+      "num_citations": 36,
+      "author_pub_id": "u-x6o8ySG0sC"
+    },
+    "9yKSN-GCB0IC": {
+      "title": "Compact and informative representation learning for scRNA-seq data clustering with masked information bottleneck",
+      "authors": "X Yan, F Han, Y Wu, Z Tian",
+      "venue": "BMC Biology, 2026",
+      "year": 2026,
+      "num_citations": 0,
+      "author_pub_id": "9yKSN-GCB0IC"
+    },
+    "d1gkVwhDpl0C": {
+      "title": "A Stitch in Time Saves Nine: Progressive Information Bottleneck for Incremental Multiview Clustering",
+      "authors": "X Yan, F Han, Y Mao, Z Tian, W Pedrycz, H Yu",
+      "venue": "IEEE Transactions on Computational Social Systems (TCSS), 2025",
+      "year": 2025,
+      "num_citations": 0,
+      "author_pub_id": "d1gkVwhDpl0C"
+    }
+  },
+  "updated": "2026-05-07"
+}
